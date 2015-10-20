@@ -1,0 +1,36 @@
+{
+  "name": "webpacker",
+  "version": "1.0.0",
+  "description": "webpack-middleware",
+  "main": "webpacker.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockcoder23/webpacker.git"
+  },
+  "keywords": [
+    "webpack",
+    "middleware",
+    "request",
+    "response"
+  ],
+  "author": "kugua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockcoder23/webpacker/issues"
+  },
+  "homepage": "https://github.com/rockcoder23/webpacker#readme",
+  "dependencies": {
+    "memory-fs": "^0.2.0",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2"
+  }
+}
